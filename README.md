@@ -7,5 +7,7 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 # Knowledge Gained
 Task 4 significantly enhanced my proficiency in:
 Performing advanced data cleaning techniques to ensure data quality and reliability.
+
 Conducting thorough exploratory data analysis to uncover hidden patterns and trends.
+
 Generating insightful visual representations (bar charts, histograms) to effectively communicate findings and support decision-making processes.
